@@ -1,2 +1,2 @@
-<img width="1587" height="500" alt="pamphlet" src="https://github.com/user-attachments/assets/796ae10d-315b-43fc-a19a-23b3d91abfea" />
+<img width="1587" height="500" alt="pamphlet" src="https://github.com/user-attachments/assets/d1de7bac-ffec-4207-b69b-cd042a6ecb41" />
 # Tuition-Classes.github.io
